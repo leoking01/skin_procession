@@ -14,7 +14,8 @@ SET(CMAKE_CXX_STANDARD 11)
  
  
 if(CMAKE_CURRENT_SOURCE_DIR STREQUAL CMAKE_SOURCE_DIR)
-    find_package(OpenCV 3 REQUIRED)
+#    find_package(OpenCV 3 REQUIRED)
+    find_package(OpenCV   REQUIRED)
 endif()
 
 
