@@ -1,4 +1,9 @@
-# skin_procession
+# skin_processi
+
+利用cmake  qt   opencv   进行肤色检测。
+
+肤色检测是一个有着重要应用的研究领域，有很久研究历但是效果常常有限，当前依依据应用领域的具体场景来制定需求的。
+
 
 
 Author: leo <leoking02@foxmail.com>
